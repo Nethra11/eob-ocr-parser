@@ -1,0 +1,34 @@
+EXPLANATION OF BENEFITS
+
+Member January 15, 2024
+
+John Doe
+1234 Main St
+Anytown, USA 12345
+
+This is not a bill.
+
+This document shows how we processed your claim. Keep this for your
+records. Questions? Contact us at www.example.com or 1-800-123-4567.
+
+CLAIM DETAILS
+
+Service Date Descrition Total Not Amount Notes
+| Cost |Covered Covered
+
+12/20/2023 | HOSPITAL SERVICES |5,000,00] 0 4.000,00 ONGOING
+
+PATIENT
+12/20/2023 | LAB TESTS 200,00 0 | 160,00 PAID
+12/20/2023 | X-RAY 150,00 0 120,00 PAID
+
+12/20/2023 | PHYSICIANSERVICES) 250,00} 0 200,00 PAID
+
+TOTALS 5,600,00} 0 4,480,00
+
+YOUR PLAN BENEFITS
+Amount your provider billed $5.600.00
+
+Amount covered by your plan $4.480.00
+
+YOUR RESPONSIBILITY $1,120,00
